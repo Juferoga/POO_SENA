@@ -1,0 +1,16 @@
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\bin\Debug\controles la reencarnacion.exe
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\bin\Debug\controles la reencarnacion.pdb
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles_la_reencarnacion.Form1.resources
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles_la_reencarnacion.Properties.Resources.resources
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles la reencarnacion.exe
+c:\users\equipo11\documents\visual studio 2010\Projects\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles la reencarnacion.pdb
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles la reencarnacion.exe
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles la reencarnacion.pdb
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\bin\Debug\controles la reencarnacion.exe
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\bin\Debug\controles la reencarnacion.pdb
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles_la_reencarnacion.Form1.resources
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles_la_reencarnacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\c#\controles la reencarnacion\controles la reencarnacion\obj\x86\Debug\controles la reencarnacion.csproj.GenerateResource.Cache

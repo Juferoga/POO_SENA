@@ -6,7 +6,8 @@ using System.Windows.Forms;
 namespace Comunicar_Datos
 {
     static class Program
-    {
+    { 
+        // JUAN FELIPE
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>

@@ -1,0 +1,232 @@
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_RealG4Life.resources
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pottes\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+D:\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+G:\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Reportes.Form_reportes.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Reportes.Form_reportes2.resources
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_CambioClave.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_About.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_empleados_ad.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Equipo.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Jugador.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_login.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Menuprincipal.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Recovery.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_segimiento.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.P_Test.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Reportes.Form_reportes.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.Reportes.Form_reportes2.resources
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.dll
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.dll
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\negocio.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Datos.pdb
+E:\mio\Club_Deportivo_La_Gaitana\Presentacion\bin\Debug\Presentacion.exe.config
+E:\mio\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\mio\Club_Deportivo_La_Gaitana\Presentacion\obj\x86\Debug\Presentacion.pdb

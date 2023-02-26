@@ -1,0 +1,77 @@
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+c:\users\equipo-30\documents\visual studio 2010\Projects\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+D:\pottes\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+D:\Proyecto\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\software\Desktop\THIS\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\ACER!\Desktop\SUBIR\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+D:\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+D:\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+D:\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+D:\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+D:\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+D:\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\ACER!\Desktop\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Ñ\L\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Proyecto JF\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\ACER!\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.dll
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\negocio.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.dll
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\bin\Debug\Datos.pdb
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.dll
+C:\Users\Equipo-30\Desktop\Club_Deportivo_La_Gaitana\negocio\obj\Debug\negocio.pdb

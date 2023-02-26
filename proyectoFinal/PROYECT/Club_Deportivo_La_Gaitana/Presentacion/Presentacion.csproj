@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB8F9B27-44F3-4E07-83AD-73FA7029A117}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GaitanaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GaitanaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GaitanaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GaitanaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="P_CambioClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_CambioClave.Designer.cs">
+      <DependentUpon>P_CambioClave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_About.Designer.cs">
+      <DependentUpon>P_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_empleados_ad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_empleados_ad.Designer.cs">
+      <DependentUpon>P_empleados_ad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="P_Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Equipo.Designer.cs">
+      <DependentUpon>P_Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Jugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Jugador.Designer.cs">
+      <DependentUpon>P_Jugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_login.Designer.cs">
+      <DependentUpon>P_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Menuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Menuprincipal.Designer.cs">
+      <DependentUpon>P_Menuprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Recovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Recovery.Designer.cs">
+      <DependentUpon>P_Recovery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_segimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_segimiento.Designer.cs">
+      <DependentUpon>P_segimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Test.Designer.cs">
+      <DependentUpon>P_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Form_reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_reportes.Designer.cs">
+      <DependentUpon>Form_reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Form_reportes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_reportes2.Designer.cs">
+      <DependentUpon>Form_reportes2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="P_CambioClave.resx">
+      <DependentUpon>P_CambioClave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="P_About.resx">
+      <DependentUpon>P_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_empleados_ad.resx">
+      <DependentUpon>P_empleados_ad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Equipo.resx">
+      <DependentUpon>P_Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Jugador.resx">
+      <DependentUpon>P_Jugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_login.resx">
+      <DependentUpon>P_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Menuprincipal.resx">
+      <DependentUpon>P_Menuprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Recovery.resx">
+      <DependentUpon>P_Recovery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_segimiento.resx">
+      <DependentUpon>P_segimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Test.resx">
+      <DependentUpon>P_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Form_reportes.resx">
+      <DependentUpon>Form_reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Form_reportes2.resx">
+      <DependentUpon>Form_reportes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="GaitanaDataSet.xsc">
+      <DependentUpon>GaitanaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GaitanaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GaitanaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GaitanaDataSet.xss">
+      <DependentUpon>GaitanaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GaitanaDataSet1.xsc">
+      <DependentUpon>GaitanaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GaitanaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GaitanaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GaitanaDataSet1.xss">
+      <DependentUpon>GaitanaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\negocio\negocio.csproj">
+      <Project>{D73FA0DA-DF18-47C1-9A42-AD83C2EC9F3B}</Project>
+      <Name>negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-de-triangulos-verdes_1013-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

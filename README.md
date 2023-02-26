@@ -1,4 +1,6 @@
-# POO Y SQL
+# Proyecto SENA
+
+## POO Y SQL
 
 Notas De Clase y Ejercicios
 
